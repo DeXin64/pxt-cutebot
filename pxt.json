@@ -4,8 +4,7 @@
     "description": "ELECFREAKS cutebot car",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "neopixel": "github:elecfreaks/pxt-neopixel#v0.6.21"
+        "core": "*"
     },
     "files": [
         "README.md",
